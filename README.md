@@ -7,9 +7,9 @@ Customers can login and order their favourite tea from the app.
 
 ## Live Demo
 
-**This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
+**This App uses Replit free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://lemonadefrontend.olawalealex-oni.repl.co) here!!
+Check out [FRONTEND LIVE DEMO](https://lemonadefrontend.olawalealex-oni.repl.co/) here!!
 
 Check out [API LIVE DEMO](https://lemonade-backend-1.olawalealex-oni.repl.co) here!!
 
